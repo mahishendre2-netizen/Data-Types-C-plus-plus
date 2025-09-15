@@ -2,9 +2,9 @@
 
 # Aim: To study and implement C++ Program Structure (Data Types).
 
-#Tool: VS Code
+# Tool: VS Code
 
- Theory: The program contains # include for input/output operations and then # include in order to show the string data type. using namespace std; enables the use of cout, cin, string, etc. without std::.
+ # Theory: The program contains # include for input/output operations and then # include in order to show the string data type. using namespace std; enables the use of cout, cin, string, etc. without std::.
 
 Program Flow In the main() method, the program demonstrates the declaration, input, and size of different C++ data types:
 
