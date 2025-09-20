@@ -1,8 +1,8 @@
-# 🟡Data-Types-C-plus-plus
+# Data-Types-C-plus-plus
 
-# 🟡Aim: To study and implement C++ Program Structure (Data Types).
+# Aim: To study and implement C++ Program Structure (Data Types).
 
-# 🟡Tool: VS Code
+# Tool: VS Code
 
 # Theory: 
 The program contains # include for input/output operations and then # include in order to show the string data type. using namespace std; enables the use of cout, cin, string, etc. without std::.
@@ -21,10 +21,10 @@ String (string): The program takes an input word (the program points out that ci
 
 Boolean (bool): The program takes a boolean input(0=false, 1=true), displays it, then prints its size which is of 1 bytes.
 
-# 🟡Algorithm:
+# Algorithm:
 
 Start the program. Declare an integer variable a. Prompt: Enter integer number Input: Read value into a Output: Display value of a and its size using sizeof(a) Declare a float variable b. Prompt: Enter floating number Input: Read value into b Output: Display value of b and its size using sizeof(b) Declare a character variable c. Prompt: Enter Character Input: Read value into c Output: Display value of c and its size using sizeof(c) Declare a double variable e. Prompt: Enter double int number Input: Read value into e Output: Display value of e and its size using sizeof(e) Declare a string variable f. Prompt: Enter String Input: Read value into f Output: Display value of f and its size using sizeof(f) Declare a boolean variable d. Prompt: Enter Boolean value Input: Read value into Output: Display value of d and its size using sizeof(d) End the program.
 
-# 🟡Conclusion: 
+# Conclusion: 
 The program display all the values and their sizes in memory. This makes it easier for users to learn how to apply datatypes practically in C++, but also introduces them to the concept of memory allocation of datatypes.
 
